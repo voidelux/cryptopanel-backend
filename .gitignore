@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+venv/
+.env/
+.envrc
+*.env
+.env
+
+# VS Code, PyCharm, JetBrains
+.vscode/
+.idea/
+*.swp
+
+# macOS system files
+.DS_Store
+
+# Log and debug files
+*.log
+*.bak
+
+# Unit test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.cache/
+
+
+# General backup/temp files
+*.tmp
+*.temp
+*.old
